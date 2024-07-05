@@ -1,4 +1,4 @@
-# README: Autenticação Simples com Go
+# Autenticação Simples com Go
 
 Este projeto implementa um servidor HTTP básico em Go que oferece autenticação simples por meio de um formulário de login. Os usuários podem inserir um nome de usuário e senha para acessar o servidor.
 
